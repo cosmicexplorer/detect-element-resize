@@ -1,7 +1,8 @@
 {
   "name": "detect-element-resize",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "GPL-3.0",
+  "main": "detect-element-resize",
   "repository": {
     "type": "git",
     "url": "git://github.com/cosmicexplorer/detect-element-resize.git"
