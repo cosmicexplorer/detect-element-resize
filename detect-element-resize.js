@@ -35,8 +35,8 @@ if (!attachEvent) {
       expandChild = expand.firstElementChild;
     contract.scrollLeft = contract.scrollWidth;
     contract.scrollTop = contract.scrollHeight;
-    expandChild.style.width = expand.offsetWidth + 1 + 'px';
-    expandChild.style.height = expand.offsetHeight + 1 + 'px';
+    expandChild.style.width = expand.offsetWidth + 2 + 'px';
+    expandChild.style.height = expand.offsetHeight + 2 + 'px';
     expand.scrollLeft = expand.scrollWidth;
     expand.scrollTop = expand.scrollHeight;
   };
