@@ -7,7 +7,8 @@
  * version: 0.5.3
  **/
 
-var attachEvent = document.attachEvent, stylesCreated = false;
+var attachEvent = document.attachEvent,
+  stylesCreated = false;
 
 if (!attachEvent) {
   var requestFrame = (function () {
