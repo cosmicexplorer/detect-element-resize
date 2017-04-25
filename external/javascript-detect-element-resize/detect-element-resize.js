@@ -4,6 +4,8 @@
  * https://github.com/sdecima/javascript-detect-element-resize
  * Sebastian Decima
  *
+ * See LICENSE in this directory for licensing information.
+ *
  * version: 0.5.3
  **/
 
