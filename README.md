@@ -63,7 +63,7 @@ Watch the console output as you resize the element!
 Contact me [here](https://github.com/cosmicexplorer).
 
 ## This Program
-If the license for a file in this repository is not clearly and specifically denoted within the file or another file in the same directory, it is licensed under the GNU GPL version 3 (or any later version) as specified in [GPL.md](GPL.md).
+If the license for a file in this repository is not clearly and specifically denoted within the file or another file in the same directory, it is licensed under the GNU GPL version 3 (or any later version) as specified in [this repository](./LICENSE).
 
 ## External
 Any code under the [external/](external) subdirectory has its own *README.md* and *LICENSE* files, which are also listed below for convenience. Please [make an issue](https://github.com/cosmicexplorer/detect-element-resize/issues/new) if you believe this repository violates the licenses of any external code.
